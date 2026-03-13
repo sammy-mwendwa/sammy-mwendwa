@@ -27,18 +27,6 @@ I'm a **System Software & Network Engineer** based in **Nairobi, Kenya 🇰🇪*
 
 Currently pursuing a **B.Sc. in Software Engineering** at Murang'a University of Technology, while serving as a **Teaching Assistant** in Advanced Software Engineering.
 
-### ⚡ Quick Facts
-
-| | |
-|---|---|
-| 🔭 **Currently Building** | AI-powered apps & scalable APIs |
-| 🌱 **Learning** | Cloud infrastructure & system design |
-| 👨‍🏫 **Also Doing** | Mentoring undergrad engineers |
-| 💬 **Ask Me About** | Backend, REST APIs, Docker, Linux |
-| 🤝 **Open To** | Internships, freelance & collabs |
-| ⚡ **Fun Fact** | I debug faster with coffee ☕ |
-
-  </tr>
 </table>
 
 ---
